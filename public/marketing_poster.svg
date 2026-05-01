@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#103b74"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#g)"/><circle cx="1020" cy="120" r="180" fill="#60a5fa" opacity=".18"/><circle cx="180" cy="620" r="240" fill="#34d399" opacity=".16"/>
+<text x="90" y="145" fill="#93c5fd" font-family="Inter,Arial" font-size="28" font-weight="800" letter-spacing="5">CODEX TRANSCRIPT BUILD</text>
+<text x="90" y="245" fill="white" font-family="Inter,Arial" font-size="78" font-weight="900">Track every stock.</text>
+<text x="90" y="335" fill="white" font-family="Inter,Arial" font-size="78" font-weight="900">Research with intent.</text>
+<text x="96" y="420" fill="#cbd5e1" font-family="Inter,Arial" font-size="34">Live charts • News • Portfolio DB • AI research • Launch-ready</text>
+<rect x="790" y="250" width="360" height="230" rx="30" fill="#0b1220" stroke="#60a5fa" opacity=".92"/>
+<polyline points="835,420 890,365 940,385 995,310 1045,335 1110,285" fill="none" stroke="#34d399" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="830" y="535" fill="#f8fafc" font-family="Inter,Arial" font-size="30" font-weight="800">Stock Command Center</text>
+</svg>
